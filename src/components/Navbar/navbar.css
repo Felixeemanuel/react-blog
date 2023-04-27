@@ -1,0 +1,30 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    padding: .8rem 2rem;
+    background-color: darkslategray;
+    align-items: center;
+}
+
+.big-link .logo {
+    color: white;
+    letter-spacing: 3px;
+    font-family: 'Satisfy', cursive;
+    font-size: 1.3rem;
+}
+
+.big-link {
+    text-decoration: none;
+}
+
+.nav-container ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+
+.link-tag{
+    text-decoration: none;
+    color: white;
+}
