@@ -110,7 +110,6 @@ body {
 
 .form-page {
   height: 100vh;
-  border: 1px solid pink;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -148,6 +147,8 @@ body {
   border-radius: .3rem;
   border: 0;
   margin-top: .5rem;
+  opacity: .7;
+  outline: 0;
 }
 
 .form-control textarea {
